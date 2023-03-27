@@ -1,4 +1,4 @@
-
+# sin^2 x + cos^2 x = 1 == (sin * x)**2 + (cos * x)**2 = 1
 import numpy as np
 import math
 import matplotlib.pyplot as plt
